@@ -1,0 +1,25 @@
+[INFO] [16:22:36.710] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :D:\soft\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [16:22:39.795] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:238 --> jar lib path: D:\soft\mybatis-generator-gui\lib
+[INFO] [16:22:39.795] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\commons-beanutils-1.9.2.jar
+[INFO] [16:22:39.796] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\commons-collections-3.2.1.jar
+[INFO] [16:22:39.796] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\commons-io-2.5.jar
+[INFO] [16:22:39.796] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\commons-lang3-3.4.jar
+[INFO] [16:22:39.796] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\commons-logging-1.1.1.jar
+[INFO] [16:22:39.797] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\fastjson-1.2.7.jar
+[INFO] [16:22:39.797] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\hamcrest-core-1.3.jar
+[INFO] [16:22:39.797] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\jsch-0.1.54.jar
+[INFO] [16:22:39.797] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\junit-4.12.jar
+[INFO] [16:22:39.797] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\logback-classic-1.1.2.jar
+[INFO] [16:22:39.798] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\logback-core-1.1.2.jar
+[INFO] [16:22:39.798] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\mybatis-generator-core-1.3.6.jar
+[INFO] [16:22:39.798] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\mysql-connector-java-5.1.38.jar
+[INFO] [16:22:39.799] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\mysql-connector-java-8.0.11.jar
+[INFO] [16:22:39.799] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\ojdbc6.jar
+[INFO] [16:22:39.799] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\postgresql-9.4.1209.jar
+[INFO] [16:22:39.799] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\slf4j-api-1.7.25.jar
+[INFO] [16:22:39.800] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\sqlite-jdbc-3.19.3.jar
+[INFO] [16:22:39.800] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\sqlite-jdbc-3.8.11.2.jar
+[INFO] [16:22:39.800] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.getAllJDBCDriverJarPaths:242 --> jar file: D:\soft\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [16:22:39.807] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.loadDbDriver:222 --> load driver class: com.mysql.jdbc.Driver@269fc835
+[INFO] [16:22:39.807] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:208 --> getConnectionUrlWithSchema, connection url: jdbc:mysql://localhost:3306/axinxin?useUnicode=true&useSSL=false&characterEncoding=utf8
+[INFO] [16:22:39.971] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnection:133 --> getConnection, connection url: com.mysql.jdbc.JDBC4Connection@5f8fb481
